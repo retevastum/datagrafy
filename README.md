@@ -39,6 +39,10 @@ Many Datagrafies are aggregated in series, as they deal with similar contents or
 * [graphlaut](http://datengraphie.de/#gl) deals with the transformation of data into "music" (graphlaut is by the way the reason for having "drawing material" in quotes - sounds get "drawn"). The Datagraphy [Diffus](http://datengraphie.de/#gl*diffus) shows kind of a special effect. Here music is created from a picture (Mode: datengraphie.rgbpcm). In the next step that music is taken as input to the creation of a picture from music (Mode: datengraphie.pcmrgb). With well chosen parameters the picture created in the second step shows a form of the initial picture - the visual got encoded in music. Some people may recognize Mr. Franz Kafka.
 * [lautgraph](http://datengraphie.de/#lg) as a last example is about creating pictures from music / audio. The Datagraphy [Entzug der Sinne](http://datengraphie.de/#lg*entzugdersinne) (which roghly translates to: Deprivation of senses) simply shows the transformation of one piece of music - nothing else - green on black, music.
 
+## Support
+
+If you like this project feel free to support via xmr, btg, btc or eth here: <http://datengraphie.de/#krypto>
+
 ## More
 
 * http://datengraphie.de
