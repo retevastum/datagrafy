@@ -2,7 +2,7 @@
 
 ## Overview
 
-* datagrafy is a form of data / information art (<https://www.facebook.com/groups/datenkunst/> <https://en.wikipedia.org/wiki/information_art>) and digital art
+* datagrafy is a form of data / information art (<https://en.wikipedia.org/wiki/information_art>) and digital art
 * It uses arbitrary data (Pictures, Video, Audio, Text, Numbers) as source material
 * But i also uses raw data as "drawing material"
 * That makes datagrafy unique
