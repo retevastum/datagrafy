@@ -46,6 +46,8 @@ If you like this project feel free to support via xmr, btg, btc or eth here: <ht
 ## More
 
 * http://datengraphie.de
+* Discuss on github wiki: (https://github.com/retevastum/datagrafy/wiki)
+* Discuss on slack: (https://retevastum.slack.com)
 * There is a group on data art on [facebook](https://www.facebook.com/groups/datenkunst/)
 * A blog on data art on [tumblr](https://datenkunst.tumblr.com/)
 
